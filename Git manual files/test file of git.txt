@@ -1,0 +1,69 @@
+// IMPORTANT COMMANDS OF THE GIT //
+
+1. Connect user with the vs code
+/*
+    git config user.name " ENTER YOU GIT USER NAME"
+
+    git config user.email "ENTER YOUR GIT EMAIL ADDRESS"
+
+*/
+
+
+2. How to check the connected git account
+/*
+    Open your VS Code
+    Click on accounts icon, check your connected account
+*/
+
+
+3. Check the git version 
+/* 
+    git --version
+*/
+
+
+
+4. Get the get connected user name and user email in vS code
+/* 
+    git config user.name
+
+    git config user.email
+
+/*
+
+
+5. Check all configuration in your git account
+/*
+    git config --list
+
+    this will return all configured settings in your git like username, user email etc.
+*/
+
+
+6. Check remotes in the current repo
+/*
+    git remote
+    git remove -v  // get remote with the connected repo
+*/
+
+
+7. Remove remove with the currently connected repo
+/*
+    git remote remove <Origin Name>
+*/
+
+
+8. Set a new remote for any repo
+/*
+    $ git remote add origin https://github.com/OWNER/REPOSITORY.git
+    # Set a new remote
+    # A repo can have multiple remote
+
+    // It is used used when we want to change the existing remote for any repo
+    git remote set-url testremote https://github.com/vikash-kumar47/Custom-Activity-Files.git
+
+    Reference:- https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories
+*/
+
+
+9. 
