@@ -1,0 +1,23 @@
+git init
+// Initialize the git.
+
+git status
+// To check the changed files in the project or for know the changed file.
+
+git add .
+// To add all the files to stage change.
+
+git commit -m "first commit"
+// Commit all the file thats you need to push
+
+git remote add origin https://github.com/vikash-kumar47/Git-User-Guide.git
+// Specify the repo in which want to push
+
+git push -u origin master
+// Push all the changes or all the files in specified branch <Master> (branch name)
+
+git checkout -b Git-Guide-added
+// To add new branch in the existing repo
+
+git branch
+// To check the current branch in which you exist.
