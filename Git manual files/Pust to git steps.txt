@@ -37,3 +37,6 @@ To check all the history as oneline
 // git merge <Source branch name>
 first switch to branch (Switch to terget branch), In which you want to perform merge and
 In merge command provide branch name, From which you want to merge.
+
+// git restore --staged
+Change the stages file into unstages
