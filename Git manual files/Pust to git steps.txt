@@ -19,6 +19,9 @@ git push -u origin master
 git checkout -b Git-Guide-added
 // To add new branch in the existing repo
 
+git checkout <branch name>
+// It can also be use for switching between the branches
+
 git branch
 // To check the current branch in which you exist.
 
