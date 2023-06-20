@@ -21,3 +21,6 @@ git checkout -b Git-Guide-added
 
 git branch
 // To check the current branch in which you exist.
+
+// git switch <branch name>
+To switch between the branches
