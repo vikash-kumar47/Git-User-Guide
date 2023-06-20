@@ -24,3 +24,9 @@ git branch
 
 // git switch <branch name>
 To switch between the branches
+
+// git log
+To check all the commit history of any branch 
+
+// git log --pretty=oneline
+To check all the history as oneline
