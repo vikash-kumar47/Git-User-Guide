@@ -33,3 +33,7 @@ To check all the commit history of any branch
 
 // git log --pretty=oneline
 To check all the history as oneline
+
+// git merge <Source branch name>
+first switch to branch (Switch to terget branch), In which you want to perform merge and
+In merge command provide branch name, From which you want to merge.
